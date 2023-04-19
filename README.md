@@ -1,4 +1,4 @@
-# sql_samples
+# SQL Samples!
 
 Welcome to my GitHub repository for MySQL database basic projects and exercises! This repository is designed to showcase my skills and knowledge in MySQL as a beginner data science student.
 
