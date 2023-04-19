@@ -8,4 +8,4 @@ Este repositório tem como objetivo ser um recurso valioso para futuros empregad
 
 Sinta-se à vontade para navegar pelo repositório e conferir. Se tiver alguma dúvida ou feedback, não hesite em entrar em contato comigo!
 
-Obrigada pela visita! 👋🏻🏻
+Obrigada pela visita! 👋🏻
