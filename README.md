@@ -1,11 +1,11 @@
-# SQL Samples!
+# Amostras SQL!
 
-Welcome to my GitHub repository for MySQL database basic projects and exercises! This repository is designed to showcase my skills and knowledge in MySQL as a beginner data science student.
+Bem-vindo ao meu repositório GitHub para projetos e exercícios básicos de banco de dados MySQL! Este repositório foi projetado para mostrar minhas habilidades e conhecimentos em MySQL como uma estudante iniciante de ciência de dados.
 
-In this repository, you will find various projects and exercises that I have completed to demonstrate my understanding of fundamental concepts in MySQL, such as creating databases, tables, and performing CRUD operations. Each project and exercise includes a detailed README file explaining the problem statement, methodology, and outcome.
+Neste repositório, você encontrará vários projetos e exercícios que concluí para demonstrar minha compreensão de conceitos fundamentais em MySQL, como criar bancos de dados, tabelas e realizar operações CRUD. Cada projeto e exercício inclui um arquivo README detalhado explicando o enunciado do problema, metodologia e resultado.
 
-This repository is intended to be a valuable resource for future employers and recruiters to assess my proficiency in MySQL and to gain insight into my problem-solving abilities. It is also a great place for other beginner data science students to learn from and get inspired by my projects and exercises.
+Este repositório tem como objetivo ser um recurso valioso para futuros empregadores e recrutadores avaliarem minha proficiência em MySQL e para obterem insights sobre minhas habilidades de resolução de problemas. Também é um ótimo lugar para outros estudantes iniciantes de ciência de dados aprenderem com os projetos e exercícios e se inspirarem neles.
 
-Feel free to browse through the repository and check out my projects and exercises. If you have any questions or feedback, please don't hesitate to reach out to me. 
+Sinta-se à vontade para navegar pelo repositório e conferir. Se tiver alguma dúvida ou feedback, não hesite em entrar em contato comigo!
 
-Thank you for visiting! 👋🏻
+Obrigada pela visita! 👋🏻
