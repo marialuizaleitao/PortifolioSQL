@@ -119,3 +119,9 @@ Retorne o nome da banda como `Banda` e o número de músicas como `Número de M�
 | Within Temptation | 30                | 
 | Death             | 27                | 
 | Van Canto         | 32                | 
+
+### Projeto Final
+
+Você pode ver o script do projeto final clicando [aqui](scriptFinal.sql).
+
+## Espero que consiga fazer em casa, e agradeço por ter lido até aqui!
