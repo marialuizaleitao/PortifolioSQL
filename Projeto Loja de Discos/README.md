@@ -1,5 +1,5 @@
 # Projeto SQL - Bandas
-Projeto baseado[no vídeo](https://youtu.be/30W5wjgJR08).
+Projeto baseado em um [vídeo](https://youtu.be/30W5wjgJR08).
 
 ## Exercício
 ### 0. Criando o ambiente
@@ -65,15 +65,15 @@ Retorne o nome do álbum como `Nome`, o ano de lançamento do álbum como `Ano d
 |----------------|-------------------|-------------------| 
 | Death Magnetic | 2008              | 74.76666593551636 | 
 
-### 7. Atualize o Ano de Lançamento do Álbum sem Ano de Lançamento.
+### 7. Atualize o Ano de Lançamento do Álbum sem Ano de Lançamento
 
 Defina o ano de lançamento para 1986.
 
-### 8. Inserir um registro para sua banda favorita e um de seus álbuns.
+### 8. Inserir um registro para sua banda favorita e um de seus álbuns
 
-### 9. Delete a Banda e Album adicionados em #8.
+### 9. Delete a Banda e Album adicionados em #8
 
-### 10. Obter a duração média de todas as músicas.
+### 10. Obter a duração média de todas as músicas
 
 Retorne a duração média como `Duração média`.
 
@@ -82,7 +82,7 @@ Retorne a duração média como `Duração média`.
 | 5.352472513259112     | 
 
 
-### 11. Selecionar a música mais longa de cada álbum.
+### 11. Selecionar a música mais longa de cada álbum
 
 Retorne o nome do álbum como `Álbum`, o ano de lançamento do álbum como `Ano de Lançamento` e a duração da música mais longa como `Duração`.
 
@@ -107,7 +107,7 @@ Retorne o nome do álbum como `Álbum`, o ano de lançamento do álbum como `Ano
 | Break the Silence           | 2011              | 6.15     | 
 | Tribe of Force              | 2010              | 8.38333  | 
 
-### 12. Obter o número de músicas para cada banda.
+### 12. Obter o número de músicas para cada banda
 
 Retorne o nome da banda como `Banda` e o número de músicas como `Número de Músicas`.
 
@@ -119,3 +119,9 @@ Retorne o nome da banda como `Banda` e o número de músicas como `Número de M�
 | Within Temptation | 30                | 
 | Death             | 27                | 
 | Van Canto         | 32                | 
+
+### Projeto Final
+
+Você pode ver o script do projeto final clicando [aqui](scriptFinal.sql).
+
+## Espero que consiga fazer em casa, e agradeço por ter lido até aqui!
