@@ -1,17 +1,18 @@
-CREATE DATABASE loja_discos;
-USE loja_discos;
+DROP DATABASE IF EXISTS record_company;
+CREATE DATABASE record_company;
+USE record_company;
 
-CREATE TABLE bandas (
+CREATE TABLE bands (
   id INT NOT NULL AUTO_INCREMENT,
-  nome VARCHAR(255) NOT NULL,
+  name VARCHAR(255) NOT NULL,
   PRIMARY KEY (id)
 );
 
-CREATE TABLE albuns (
+CREATE TABLE albums (
   id INT NOT NULL AUTO_INCREMENT,
-  nome VARCHAR(255) NOT NULL,
-  ano_lancamento INT,
-  banda_id INT NOT NULL,
+  name VARCHAR(255) NOT NULL,
+  release_year INT,
+  band_id INT NOT NULL,
   PRIMARY KEY (id),
-  FOREIGN KEY (banda_id) REFERENCES bandas(id)
+  FOREIGN KEY (band_id) REFERENCES bands(id)
 );
