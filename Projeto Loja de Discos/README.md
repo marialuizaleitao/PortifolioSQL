@@ -1,5 +1,5 @@
 # Projeto SQL - Bandas
-Projeto baseado[no vídeo](https://youtu.be/30W5wjgJR08).
+Projeto baseado em um [vídeo](https://youtu.be/30W5wjgJR08).
 
 ## Exercício
 ### 0. Criando o ambiente
